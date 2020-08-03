@@ -1,0 +1,62 @@
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+    color: black;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 15px;
+	    letter-spacing:1px;}
+	    .navbar-nav .nav-link:hover{}
+
+   .service img{}
+.section-service{padding: 100px 0;}
+h6{
+    font-size: 18px;
+    color: #5656e0;
+    text-transform: capitalize;
+}
+h1{
+    font-size: 35px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.service{
+    background-color: #f1f1f1;
+    padding: 25px;
+}
+h3{}
+p{
+    font-size: 14px;
+    line-height: 1.6;
+}
+.feature-section,.partner-section{
+	padding: 100px 0;
+}
+.feature{padding: 25px;}
+.feature img{max-width: 10%;}
+.partner-section{}
+.partner-section h1{
+    font-size: 70px;
+    font-weight: 100;
+}
+.partner-section a{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10x 20px;
+}
+.partner-section h6{}
+.partners{
+	text-align:center;
+
+}
+.partners img{max-width: 50%;
+
+}
+@media(
+	max-width: 767px){
+	.partner-section h1{
+    font-size:50px;
+
+}
+.navbar-brand{}
